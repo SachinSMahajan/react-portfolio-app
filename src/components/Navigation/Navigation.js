@@ -3,12 +3,10 @@ import { Link, useLocation } from 'react-router-dom';
 import {
   Header,
   HeaderContainer,
-  HeaderName,
   HeaderNavigation,
   HeaderMenuButton,
   HeaderMenuItem,
   HeaderGlobalBar,
-  HeaderGlobalAction,
   SkipToContent,
   SideNav,
   SideNavItems,

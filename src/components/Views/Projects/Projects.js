@@ -1,5 +1,5 @@
 import React from 'react'
-import { SectionTitle, Pill } from '../../../GlobalStyle'
+import { SectionTitle } from '../../../GlobalStyle'
 import Layout from '../../Layout/Layout'
 import { WorkItem, WorkTitle } from '../Experience/ExperienceStyle'
 import { SkillContainer } from './ProjectsStyle'

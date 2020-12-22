@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from './../../Layout/Layout'
-import { SectionTitle, Pill, Paragraph } from '../../../GlobalStyle'
+import { SectionTitle, Paragraph } from '../../../GlobalStyle'
 import { ProfileLink } from './AboutStyle'
 import { Tag } from 'carbon-components-react';
 const About = ({ profileDetails }) => {

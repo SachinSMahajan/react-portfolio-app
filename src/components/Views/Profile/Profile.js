@@ -1,6 +1,5 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import { ArrowDown16 } from "@carbon/icons-react";
 import { HeaderContainer, Header, Image, ResumeLink,ProfileLink,ProfileName ,BasicInfoContainer,Email} from './ProfileStyle'
 const { LocationCompanyFilled16 ,UserFilled16,PhoneFilled16,Email16} = require('@carbon/icons-react');
 
