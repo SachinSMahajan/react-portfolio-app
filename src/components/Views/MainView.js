@@ -14,7 +14,7 @@ const MainView = ({ profileDetails }) => {
     return (
         <Router>
             <Switch>
-                <Route exact path='/react-portfolio-app/'>
+                <Route exact path='/'>
                     <About profileDetails={profileDetails}></About>
                 </Route>
                 <Route exact path='/projects'>
